@@ -7,9 +7,9 @@ With the advent of powerful image sensors that provide very high-quality images,
 What things you need to install the software and how to install them
 
 ```
-numpy
-PILLOW
-PyWavelet
+numpy       : pip3 install numpy
+PILLOW      : pip3 install Pillow
+PyWavelet   : pip3 install pywt
 ```
 
 ## Authors
