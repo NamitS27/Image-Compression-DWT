@@ -6,7 +6,6 @@ from PIL import Image, ImageEnhance,ImageTk
 import pywt
 import tkinter as tk
 import tkinter.filedialog as tf
-from resizeimage import resizeimage
 import math
 import output as getit
 
