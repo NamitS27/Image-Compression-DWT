@@ -9,7 +9,7 @@ What things you need to install the software and how to install them
 ```
 numpy       : pip3 install numpy
 PILLOW      : pip3 install Pillow
-PyWavelet   : pip3 install pywt
+PyWavelet   : pip3 install PyWavelets
 ```
 
 ## Authors
